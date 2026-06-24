@@ -2,11 +2,9 @@
 
 Nasty and Clean Steam launch options setup utility for tailored Steam-native launch options for installed KH games, either launching them directly or passing them through my custom launchers, for Windows and Linux.
 
-<img width="833" height="753" alt="image" src="https://github.com/user-attachments/assets/5f27afcd-e326-44c6-aba8-8c89edd65387" />
+<img width="277" height="251" alt="image" src="https://github.com/user-attachments/assets/5f27afcd-e326-44c6-aba8-8c89edd65387" />
 
 This app was made to be used alongside [kh-downloader](https://github.com/SandeMC/kh-downloader) and [Kingdom-Hearts-Launchers](https://github.com/SandeMC/Kingdom-Hearts-Launchers), but can be used on it's own.
-
-[add image later]
 
 ## Usage
 
