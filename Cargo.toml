@@ -1,0 +1,24 @@
+[package]
+name = "steam-launchoptions"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "steam-launchoptions"
+path = "src/main.rs"
+
+[dependencies]
+msgbox = "0.7"
+sha1 = "0.11.0"
+
+[target.'cfg(windows)'.dependencies]
+winreg = "0.56.0"
+
+# Build without a console window on Windows so it's truly a background app.
+[profile.release]
+opt-level = "s"
+strip = true
+
+# Windows: hide the console window
+[package.metadata]
+# See build.rs for the windows-subsystem flag
