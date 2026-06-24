@@ -13,7 +13,7 @@ Just download the latest [release](https://github.com/SandeMC/kh-launchoptions/r
 - `kh-launchoptions --direct` (detects installed game EXEs and sets up the launch options for those)
 - `kh-launchoptions --custom-launcher` (passes the arguments down to my [custom launcher](https://github.com/SandeMC/Kingdom-Hearts-Launchers))
 
-Report any issue at [Issues](https://github.com/SandeMC/kh-downloader/issues). 2.8 support coming later.
+Report any issue at [Issues](https://github.com/SandeMC/kh-downloader/issues). 2.8 support coming later. You may need to re-apply this when Steam updates.
 
 ## How
 
